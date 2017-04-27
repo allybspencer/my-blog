@@ -1,3 +1,7 @@
+{% load staticfiles %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'blog/style.css' %}" />
+
 <h1>{{ post.title}}</h1>
 <body>{{ post.content}}</body>
 <ul>

@@ -1,0 +1,11 @@
+li a {
+    color: brown;
+}
+
+body {
+    background: white url("images/giraffe.gif") no-repeat left top;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
