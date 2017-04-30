@@ -9,3 +9,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.comment {
+    margin: 20px 0px 20px 20px;
+}
